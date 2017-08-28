@@ -1,7 +1,7 @@
 CHOICES
 
-First Choice: ____
-Second Choice: ____
-Third Choice: ____
-Fourth Choice: ____
-Fifth Choice: ____
+First Choice: ONE
+Second Choice: ONE
+Third Choice: ONE
+Fourth Choice: ONE
+Fifth Choice: TWO
